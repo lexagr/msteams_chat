@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "active_window": "git+https://git@github.com/lexagr/active_window.git",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jquery": "^3.5.1"
   },
   "devDependencies": {
